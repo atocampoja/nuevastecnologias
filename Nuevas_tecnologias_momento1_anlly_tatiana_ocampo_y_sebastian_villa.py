@@ -1,5 +1,6 @@
-motos = {}
+Anlly Tatiana Ocampo y Sebastian Villa
 
+motos = {}
 
 def agregar_moto(marca, modelo):
     motos[marca] = modelo
